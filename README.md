@@ -1,4 +1,4 @@
-# Disease-Outbreak-Prediction
-Machine Learning for Disease Outbreak Prediction in Public Health
+# Machine-Learning-for-Disease-Outbreak-Prediction-in-Public-Health
+
 This project, titled "Machine Learning for Disease Outbreak Prediction in Public Health," is implemented in Jupyter Notebook and focuses on forecasting trends for six major diseases: Covid-19, Influenza A, Influenza B, Monkeypox, Dengue, and Malaria. The datasets used are sourced from reputable platforms, including the official GitHub repository of the Malaysian Ministry of Health, the World Health Organization (WHO), and the California Open Data Portal. These time series datasets span from 1996 (the earliest) to May 2025 (the most recent), and they exhibit a variety of temporal patterns such as fixed daily cycles, irregular fluctuations, and annual seasonality. The project is designed to handle all these variations effectively. Its main objective is to predict future disease outbreaks by forecasting the next 30 days for all diseases except Malaria, for which it forecasts the next 5 years. This work aims to support public health preparedness through accurate, data-driven outbreak predictions.
 
